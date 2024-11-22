@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-21T00:50:23 EST" name="Default suite" finished-at="2024-11-21T00:50:32 EST" duration-ms="9005">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T00:50:23 EST" name="Default test" finished-at="2024-11-21T00:50:32 EST" duration-ms="9005">
+      <class name="com.wellsfargo.automation.roco.base.RocoTestBase">
+        <test-method signature="test()[pri:0, instance:com.wellsfargo.automation.roco.base.RocoTestBase@618b19ad]" started-at="2024-11-21T00:50:23 EST" name="test" finished-at="2024-11-21T00:50:32 EST" duration-ms="8984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.wellsfargo.automation.roco.base.RocoTestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
